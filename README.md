@@ -35,7 +35,7 @@ PROFILES
 
 ***
 
-O DRAMA DO PROJETO, his doctoral thesis, was first [published]((https://sabia.pub/product/o-drama-do-projeto-uma-teoria-do-design)) in 2022.
+O DRAMA DO PROJETO, his doctoral thesis, was first [published](https://sabia.pub/product/o-drama-do-projeto-uma-teoria-do-design) in 2022.
 
 ![Livro](images/kaizer-image.png)
 
