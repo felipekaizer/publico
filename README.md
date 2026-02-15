@@ -19,7 +19,8 @@ PROFILES
 [Web of Science](https://www.webofscience.com/wos/author/record/LFS-7860-2024)  
 [FAU-USP](https://www.fau.usp.br/docente/felipe-kaizer-santos/)  
 [Instagram](https://www.instagram.com/kaizer.felipe/)  
-[LinkedIn](https://br.linkedin.com/in/felipe-kaizer-b9b00689)
+[LinkedIn](https://br.linkedin.com/in/felipe-kaizer-b9b00689)  
+[Spotify](https://open.spotify.com/user/1164258917)
 
 ***
 
