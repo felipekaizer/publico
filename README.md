@@ -37,7 +37,7 @@
 
 ### O Drama do Projeto
 
-Kaizer's doctoral thesis was first [published](https://sabia.pub/product/o-drama-do-projeto-uma-teoria-do-design) in 2022.
+Kaizer's doctoral thesis was first published in 2022 by [Editora Sabiá](https://sabia.pub/product/o-drama-do-projeto-uma-teoria-do-design).
 
 ![Livro](images/kaizer-image.png)
 
