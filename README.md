@@ -11,16 +11,27 @@ FELIPE KAIZER is
 
 PROFILES
 
-[CNPq Plataforma Lattes](http://lattes.cnpq.br/2422427122106953)  
+[CNPq Lattes](http://lattes.cnpq.br/2422427122106953)  
+
 [ORCID](https://orcid.org/0009-0003-8743-7511)  
+
 [Google Scholar](https://scholar.google.com/citations?user=wkdzI1cAAAAJ)  
+
 [Academia.edu](https://uerj.academia.edu/FelipeKaizer)  
+
 [Research Gate](https://www.researchgate.net/profile/Felipe_Kaizer)  
+
 [Web of Science](https://www.webofscience.com/wos/author/record/LFS-7860-2024)  
+
 [FAU-USP](https://www.fau.usp.br/docente/felipe-kaizer-santos/)  
+
 [Instagram](https://www.instagram.com/kaizer.felipe/)  
+
 [LinkedIn](https://br.linkedin.com/in/felipe-kaizer-b9b00689)  
+
 [Spotify](https://open.spotify.com/user/1164258917)
+
+[GitHub](https://github.com/felipekaizer/)
 
 ***
 
