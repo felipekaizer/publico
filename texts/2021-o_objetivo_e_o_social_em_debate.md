@@ -1,4 +1,5 @@
 ---
+layout: default
 title: O objetivo e o social em debate [Wim Crouwel vs Jan van Toorn, 1972]
 year: 2021
 lang: pt-BR
