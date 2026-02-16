@@ -1,5 +1,45 @@
 # Texts
 
+2025
+
+A jornada histórica do usuário: de Frederick Taylor a Donald Norman
+
+Histórias do Design no Brasil IV
+
+O Drama e a Era do Projeto
+
+***
+
+2024
+
+A ideia de cultura material no contexto britânico de pesquisa em design
+
+[Lembrei do que eu queria falar](/texts/2024-lembrei_do_que_eu_queria_falar)
+
+A _História Mundial do Design_ de Victor Margolin e seus problemas
+
+O _komorebi_ de Wenders uma abordagem fenomenológica de Dias Perfeitos (2023)
+
+***
+
+2023
+
+After Pevsner: Problems of the new design history
+
+O drama do projeto: uma teoria do design [Livro, 2ª edição]
+
+Ponto, linha e campo: três modos de vero campo do design.
+
+***
+
+2022
+
+Ponto, linha e campo: três modos de ver o campo do design
+
+O drama do projeto: uma teoria do design [Livro]
+
+***
+
 2021
 
 [Aloisio Magalhães e o problema do design nacional](/texts/2021-aloisio-magalhaes-e-o-problema-do-design-nacional)
@@ -20,7 +60,7 @@
 
 2019
 
-[O drama do projeto: uma teoria acional do design](/texts/2019-o_drama_do_projeto)
+O drama do projeto: uma teoria acional do design [Tese]
 
 [A política das situações de projeto: uma investigação teórica em torno do Plano de Metas do governo Juscelino Kubitschek](/texts/2019-a_politica_das_situacoes_de_projeto)
 
