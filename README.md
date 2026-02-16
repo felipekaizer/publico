@@ -31,8 +31,10 @@ Felipe Kaizer is
 
 ***
 
+[Texts](page-texts.md)
+
+***
+
 O Drama do Projeto, Kaizer's doctoral thesis, was first published in 2022 by [Editora Sabiá](https://sabia.pub/product/o-drama-do-projeto-uma-teoria-do-design).
 
 ![Livro](images/kaizer-image.png)
-
-[Texts](page-texts.md)
