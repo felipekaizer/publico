@@ -9,7 +9,7 @@ authors: Felipe Kaizer
 Texto produzido para a exposição **Sala de Leitura** com curadoria de Galciani Neves na Oficina Cultural Oswald de Andrade (São Paulo) em 2013 e no Sesc São Carlos em 2017.
 
 <div class="figure" markdown='1'>
-![]({{ site.url }}/graphics/images/2017-sala_de_leitura-sesc_sao_carlos.jpg)
+![](/images/2017-sala_de_leitura-sesc_sao_carlos.jpg)
 
 Exposição no Sesc São Carlos, 2017.
 {: .caption}
