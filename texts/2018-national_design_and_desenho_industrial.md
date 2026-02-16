@@ -3,7 +3,7 @@ title: 'National Design and *Desenho Industrial*: Brazilian Issues in Historical
 year: 2018
 lang: en
 order: 1
-layout: text
+layout: default
 authors: 
     - Felipe Kaizer
     - João de Souza Leite

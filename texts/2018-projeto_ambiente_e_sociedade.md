@@ -3,7 +3,7 @@ title: Projeto, ambiente e sociedade urbana
 year: 2018
 lang: en, pt-BR
 order: 3
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

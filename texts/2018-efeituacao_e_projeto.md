@@ -3,7 +3,7 @@ title: 'Efeituação e projeto: aproximações entre os fundamentos do empreende
 year: 2018
 lang: en, pt-BR
 order: 2
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

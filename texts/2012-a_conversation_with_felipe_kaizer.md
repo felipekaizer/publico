@@ -2,7 +2,7 @@
 title: 'A conversation with Felipe Kaizer: A few questions and answers following the text "Beyond the ability to respond"'
 year: 2012
 lang: en
-layout: text
+layout: default
 authors:
     - Felipe Kaizer
     - Gustavo Ferreira

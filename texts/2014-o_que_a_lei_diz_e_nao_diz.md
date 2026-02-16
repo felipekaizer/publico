@@ -2,7 +2,7 @@
 title: O que a lei diz e não diz
 year: 2014
 lang: pt-BR
-layout: text
+layout: default
 authors:
     - Felipe Kaizer
     - Tereza Bettinardi

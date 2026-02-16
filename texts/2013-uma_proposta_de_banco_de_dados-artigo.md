@@ -2,7 +2,7 @@
 title: 'Uma proposta de base de dados sobre o Centro Universitário Maria Antonia: Artigo'
 year: 2013
 lang: en, pt-BR
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

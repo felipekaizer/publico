@@ -3,7 +3,7 @@ title: Herbert Simon in the Design Field
 year: 2020
 lang: en
 order: 1
-layout: text
+layout: default
 authors:
     - Felipe Kaizer
     - Lucas do M. N. Cunha

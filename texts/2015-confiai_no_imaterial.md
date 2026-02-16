@@ -2,7 +2,7 @@
 title: 'Confiai no Imaterial!'
 lang: pt-BR
 year: 2015
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

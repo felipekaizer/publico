@@ -2,7 +2,7 @@
 title: 'Perguntas ingênuas: Eames vs Aicher'
 year: 2013
 lang: pt-BR
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

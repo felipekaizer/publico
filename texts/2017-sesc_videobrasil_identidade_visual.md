@@ -2,7 +2,7 @@
 title: Tópicos sobre a linguagem visual do 20º Festival de Arte Contemporânea Sesc_Videobrasil
 year: 2017
 lang: pt-BR
-layout: text
+layout: default
 authors:
     - Felipe Kaizer
     - Vitor Cesar

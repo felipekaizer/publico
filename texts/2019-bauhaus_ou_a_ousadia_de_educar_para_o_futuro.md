@@ -3,7 +3,7 @@ title: 'Bauhaus ou A ousadia de educar para o futuro: Ensaio'
 year: 2019
 lang: pt-BR
 order: 3
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

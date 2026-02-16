@@ -3,7 +3,7 @@ title: 'O drama do projeto: uma teoria do design'
 year: 2022
 lang: pt-BR
 order: 1
-layout: text
+layout: default
 authors:
     - Felipe Kaizer
 ---

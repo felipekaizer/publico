@@ -3,7 +3,7 @@ title: 'A política das situações de projeto: uma investigação teórica em t
 year: 2019
 lang: en, pt-BR
 order: 2
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

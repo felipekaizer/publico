@@ -2,7 +2,7 @@
 title: A profecia da linha d\'água
 year: 2015
 lang: pt-BR
-layout: text
+layout: default
 authors:
     - Felipe Kaizer
     - Luiza Crosman

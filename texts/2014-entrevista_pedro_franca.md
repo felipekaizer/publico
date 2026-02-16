@@ -3,7 +3,7 @@ title: Entrevista com Pedro França
 year: 2014
 lang: pt-BR
 order: 2
-layout: text
+layout: default
 authors:
     - Felipe Kaizer
     - Pedro França  

@@ -3,7 +3,7 @@ title: 'Uma arte liberal da produção: considerações sobre o conceito de desi
 year: 2018
 lang: en, pt-BR
 order: 4
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

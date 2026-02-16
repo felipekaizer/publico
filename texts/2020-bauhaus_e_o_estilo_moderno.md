@@ -3,7 +3,7 @@ title: Bauhaus e o estilo moderno
 year: 2020
 lang: en, pt-BR
 order: 2
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

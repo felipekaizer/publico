@@ -2,7 +2,7 @@
 title: 'Erst der Ballzauber – dann ein neues Brasilien: Interview'
 year: 2014
 lang: pt-BR, de
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

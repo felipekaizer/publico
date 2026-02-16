@@ -3,7 +3,7 @@ title: 'Perguntas (Arte Atual Festival 2015)'
 year: 2015
 lang: pt-BR
 order: 2
-layout: text
+layout: default
 authors:
     - Felipe Kaizer
     - Priscyla Gomes

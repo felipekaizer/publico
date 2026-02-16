@@ -2,7 +2,7 @@
 title: Beyond the Ability to Respond
 year: 2009
 lang: pt-BR
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

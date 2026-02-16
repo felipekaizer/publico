@@ -2,7 +2,7 @@
 title: Em caso de dúvida, não assine
 year: 2014
 lang: pt-BR
-layout: text
+layout: default
 authors:
     - Felipe Kaizer
     - Tereza Bettinardi

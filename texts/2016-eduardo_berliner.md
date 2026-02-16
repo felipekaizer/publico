@@ -2,7 +2,7 @@
 title: 'Eduardo Berliner: Corpo em muda'
 year: 2016
 lang: pt-BR
-layout: text
+layout: default
 authors:
     - Felipe Kaizer
     - Priscyla Gomes

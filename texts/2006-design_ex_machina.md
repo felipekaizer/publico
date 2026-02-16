@@ -2,7 +2,7 @@
 title: Design Ex Machina
 year: 2006
 lang: pt-BR
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

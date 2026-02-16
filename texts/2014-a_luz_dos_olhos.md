@@ -3,7 +3,7 @@ title: À luz dos olhos
 year: 2014
 lang: pt-BR
 order: 1
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

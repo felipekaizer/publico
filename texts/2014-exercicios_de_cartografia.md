@@ -3,7 +3,7 @@ title: Exercícios de Cartografia (História)
 year: 2014
 lang: pt-BR
 order: 3
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

@@ -3,7 +3,7 @@ title: Aloisio Magalhães e o problema do design nacional
 year: 2021
 lang: pt-BR
 order: 1
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

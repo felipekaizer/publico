@@ -2,7 +2,7 @@
 title: 'André Stolarski: vida em projeto'
 year: 2013
 lang: pt-BR
-layout: text
+layout: default
 authors:
     - Felipe Kaizer
 ---

@@ -2,7 +2,7 @@
 title: Microeudaimonias
 year: 2010
 lang: pt-BR
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

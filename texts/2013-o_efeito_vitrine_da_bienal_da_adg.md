@@ -2,7 +2,7 @@
 title: O efeito vitrine da Bienal da ADG
 year: 2013
 lang: pt-BR
-layout: text
+layout: default
 authors:
     - Felipe Kaizer
     - Tereza Bettinardi

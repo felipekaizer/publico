@@ -2,7 +2,7 @@
 title: 'Duas notas sobre as transubstanciações do livro'
 year: 2012
 lang: pt-BR
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

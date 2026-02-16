@@ -3,7 +3,7 @@ title: Notas sobre Trabalho, Projeto e Consumo
 year: 2015
 lang: pt-BR
 order: 1
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

@@ -3,7 +3,7 @@ title: 'O drama do projeto: uma teoria acional do design'
 year: 2019
 lang: en, pt-BR
 order: 1
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

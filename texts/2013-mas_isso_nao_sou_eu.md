@@ -2,7 +2,7 @@
 title: 'Mas isso não sou eu: breves considerações sobre o pastiche e a esquizofrenia em Fredric Jameson'
 year: 2013
 lang: pt-BR
-layout: text
+layout: default
 authors: Felipe Kaizer
 ---
 

@@ -3,7 +3,7 @@ title: 'Experiência e representação: por uma fenomenologia das imagens em 
 year: 2020
 lang: en, es, pt-BR
 order: 3
-layout: text
+layout: default
 authors:
     - Felipe Kaizer
     - Priscyla Gomes
