@@ -15,7 +15,7 @@ ISBN 978-953-7703-67-7
 
 [DOI 10.29327/123908.12-1]
 
-[PDF]
+[PDF](/pdfs/KAIZERF.CUNHAL.M.N.-HerbertSimonintheDesignField2020.pdf)
 
 **PT-BR Version:**
 
@@ -27,7 +27,7 @@ ISSN 2447-3499
 
 ISSN ONLINE 2526-9933
 
-[PDF-PT]
+[PDF-PT](/pdfs/Herbert_Simon_como_Teorico_do_Design.pdf)
 
 ***
 
@@ -36,6 +36,4 @@ ISSN ONLINE 2526-9933
 **Keywords:** Design Methodology. Design Theory. Design History. Management and Planning.
 
 [DOI 10.29327/123908.12-1]: http://doi.org/10.29327/123908.12-1
-[PDF]: {{ site.url }}/graphics/pdfs/KAIZERF.CUNHAL.M.N.-HerbertSimonintheDesignField2020.pdf
-[PDF-PT]: {{ site.url }}/graphics/pdfs/Herbert_Simon_como_Teorico_do_Design.pdf
 [SPGD/ESDI/UERJ]: https://www.even3.com.br/anais/spgd_2019/220672-herbert-simon-como-teorico-do-design/
