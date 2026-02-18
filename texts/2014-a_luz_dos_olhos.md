@@ -8,6 +8,11 @@ authors: Felipe Kaizer
 ---
 
 <div class="figure" markdown='1'>
+
+# À luz dos olhos
+
+**Felipe Kaizer, 2014**
+
 ![](https://pacodasartes.org.br/images/events/capaarquivopedro.jpg)
 
 *Tomemos um objeto da natureza: por exemplo, uma lâmpada* – Pedro França (Paço das Artes, 2014)

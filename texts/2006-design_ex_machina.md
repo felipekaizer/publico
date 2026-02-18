@@ -8,6 +8,8 @@ authors: Felipe Kaizer
 
 # Design Ex Machina
 
+**Felipe Kaizer, 2006**
+
 A todos os projetistas que, saudavelmente, já cogitaram abandonar o exercício da profissão.
 
 ***

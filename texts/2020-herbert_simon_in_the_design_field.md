@@ -9,6 +9,10 @@ authors:
     - Lucas do M. N. Cunha
 ---
 
+# Herbert Simon in the Design Field
+
+**Felipe Kaizer, Lucas do M. N. Cunha, 2020**
+
 KAIZER, Felipe; CUNHA, Lucas do M. N.. "Herbert Simon in the Design Field". _ICDHS 12 (International Conference on Design History and Studies)_. Zagreb, p. 111-120, 2020.
 
 ISBN 978-953-7703-67-7

@@ -10,6 +10,10 @@ authors:
     - Roman Atamanczuk
 ---
 
+# O que a lei diz e não diz
+
+**Felipe Kaizer, Tereza Bettinardi, Guilherme Falcão, Roman Atamanczuk, 2014**
+
 [Aplataforma], 2014-05-10
 
 Signatários:

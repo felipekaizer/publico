@@ -6,6 +6,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# O visitante do quarto de Sutherland
+
+**Felipe Kaizer, 2013**
+
 Texto produzido para a disciplina *Design e comunicação em mídias digitais* do Prof. Romero Tori no curso de pós-graduação *Design e Humanidade* no [CEUMA/USP] Centro Universitário Maria Antonia USP em 2011.
 
 [![Creative Commons License](http://i.creativecommons.org/l/by-nd/4.0/80x15.png)](http://creativecommons.org/licenses/by-nd/4.0/) O visitante do quarto de Sutherland by Felipe Kaizer is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).

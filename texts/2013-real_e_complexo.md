@@ -6,6 +6,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Real e complexo
+
+**Felipe Kaizer, 2013**
+
 [Aplataforma] 2013-05-24 
 
 <div class="figure" markdown="1">

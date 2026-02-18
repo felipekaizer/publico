@@ -6,6 +6,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Beyond the Ability to Respond
+
+**Felipe Kaizer, 2009**
+
 2009 – [Design Philosophy Politics]  
 2009 – Taxi Design  
 2009 – [ICoD] International Council of Design (Icograda)  

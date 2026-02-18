@@ -7,6 +7,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Efeituação e projeto: aproximações entre os fundamentos do empreendedorismo, da gestão e do design
+
+**Felipe Kaizer, 2018**
+
 KAIZER, Felipe. "Efeituação e projeto: aproximações entre os fundamentos do empreendedorismo, da gestão e do design" \["Effectuation and designing: approaches between fundamentals of entrepreneurship, management and design".] Anais do SPGD 2017 – Simpósio de Pós-Graduação em Design da Escola Superior de Desenho Industrial (ESDI), Rio de Janeiro: 2018.
 
 ISSN 2526-9933

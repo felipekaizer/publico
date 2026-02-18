@@ -6,6 +6,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Confiai no Imaterial!
+
+**Felipe Kaizer, 2015**
+
 ![](/images/12407573_573803469442060_1225877055_n__1_.jpg)
 
 Jovens artistas, futuros editores! Amigos das artes e das letras! Vinde me ouvir; a mim, que sou como vós, herdeiros e tributários das palavras e das imagens d’outrora.

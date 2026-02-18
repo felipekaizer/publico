@@ -7,6 +7,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Notas sobre Trabalho, Projeto e Consumo
+
+**Felipe Kaizer, 2015**
+
 [Vernaculando], nº 1. 2015.
 
 ***

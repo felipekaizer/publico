@@ -8,6 +8,10 @@ authors:
     - Vitor Cesar
 ---
 
+# Tópicos sobre a linguagem visual do 20º Festival de Arte Contemporânea Sesc_Videobrasil
+
+**Felipe Kaizer, Vitor Cesar, 2017**
+
 Texto publicado no site do [projeto] do Sesc Videobrasil em 2017.
 
 <div class="figure" markdown='1'>

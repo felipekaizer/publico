@@ -7,6 +7,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# O drama do projeto: uma teoria acional do design
+
+**Felipe Kaizer, 2019**
+
 KAIZER, Felipe. *O drama do projeto: uma teoria acional do design. [The Drama of Designing: An Actional Theory of Design.]* Tese de doutorado [Ph.D. thesis] \(Design). Escola Superior de Desenho Industrial, Universidade do Estado do Rio de Janeiro, Rio de Janeiro: 2019.
 
 [BDTD/UERJ]

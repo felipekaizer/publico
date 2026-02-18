@@ -6,6 +6,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Valsa
+
+**Felipe Kaizer, 2013**
+
 Texto produzido para a exposição **Sala de Leitura** com curadoria de Galciani Neves na Oficina Cultural Oswald de Andrade (São Paulo) em 2013 e no Sesc São Carlos em 2017.
 
 <div class="figure" markdown='1'>

@@ -6,6 +6,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Carta aos desistentes
+
+**Felipe Kaizer, 2014**
+
 Contra, 2014-04
 
 2ª edição: 2015-02

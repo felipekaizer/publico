@@ -8,6 +8,10 @@ authors:
     - Tereza Bettinardi
 ---
 
+# O efeito vitrine da Bienal da ADG
+
+**Felipe Kaizer, Tereza Bettinardi, 2013**
+
 [Aplataforma], 2013-06-24
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/68459805?h=c935657ad3" width="640" height="360" frameborder="0" allowfullscreen></iframe>

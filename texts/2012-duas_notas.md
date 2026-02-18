@@ -6,6 +6,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Duas notas sobre as transubstanciações do livro
+
+**Felipe Kaizer, 2012**
+
 Texto para **Tendências do Livro de Artista no Brasil (Vol.2)** de Galciani Neves, [Galeria Vermelho], 2012-09-11 – 2012-11-10.
 
 <div class="figure" markdown='1'>

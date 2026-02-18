@@ -7,6 +7,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# A política das situações de projeto: uma investigação teórica em torno do Plano de Metas do governo Juscelino Kubitschek
+
+**Felipe Kaizer, 2019**
+
 KAIZER, Felipe. "A política das situações de projeto: uma investigação teórica em torno do Plano de Metas do governo Juscelino Kubitschek". Anais do 5º Simpósio de Pós-Graduação em Design (SPGD) da Escola Superior de Desenho Industrial (ESDI), Rio de Janeiro: 2019.
 
 [SPGD/ESDI/UERJ]

@@ -10,6 +10,10 @@ authors:
     - Roman Atamanczuk
 ---
 
+# Quem está pedindo para ser regulamentado?
+
+**Felipe Kaizer, Tereza Bettinardi, Guilherme Falcão, Roman Atamanczuk, 2014**
+
 [Aplataforma], 2014-04-23
 
 Signatários: 

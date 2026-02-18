@@ -7,6 +7,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Projeto, ambiente e sociedade urbana
+
+**Felipe Kaizer, 2018**
+
 KAIZER, Felipe. "Projeto, ambiente e sociedade". Anais do SPGD 2017 – Simpósio de Pós-Graduação em Design da Escola Superior de Desenho Industrial (ESDI), Rio de Janeiro: 2018.
 
 [SPGD/ESDI/UERJ]

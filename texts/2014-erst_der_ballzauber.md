@@ -6,6 +6,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Erst der Ballzauber – dann ein neues Brasilien: Interview
+
+**Felipe Kaizer, 2014**
+
 [Der Spiegel], 2014-06-12  
 
 Translated from Portuguese to German and edited by [Katharina Graça Peters]

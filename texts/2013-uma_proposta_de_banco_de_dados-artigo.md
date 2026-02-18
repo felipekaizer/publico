@@ -6,6 +6,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Uma proposta de base de dados sobre o Centro Universitário Maria Antonia
+
+**Felipe Kaizer, 2013**
+
 Artigo científico produzido para o 8º fórum de Pesquisa [FAU-Mackenzie] em outubro de 2013.
 
 [PDF](/pdfs/DES-PRJ-03.pdf)

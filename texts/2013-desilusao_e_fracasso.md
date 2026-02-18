@@ -7,6 +7,10 @@ authors:
     - Felipe Kaizer
 ---
 
+# Desilusão e fracasso: breves considerações sobre o design de experiência
+
+**Felipe Kaizer, 2013**
+
 Texto produzido para a disciplina *Sentido e tendências contemporâneas do design (ou Para entender os rumos do design)* do Prof. João de Souza Leite no curso de pós-graduação *Design e Humanidade* no [CEUMA/USP] Centro Universitário Maria Antonia USP em janeiro de 2013.
 
 [![Creative Commons License](http://i.creativecommons.org/l/by-nd/4.0/80x15.png)](http://creativecommons.org/licenses/by-nd/4.0/) Desilusão e fracasso: breves considerações sobre o design de experiência by Felipe Kaizer is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).

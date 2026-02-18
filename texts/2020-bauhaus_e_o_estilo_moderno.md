@@ -7,6 +7,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Bauhaus e o estilo moderno
+
+**Felipe Kaizer, 2020**
+
 KAIZER, Felipe. "Bauhaus e o estilo moderno". *Estudos em Design*, v. 28, n. 2, p. 66-75, 2020.
 
 ISSN 1983-196X

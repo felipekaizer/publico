@@ -6,6 +6,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Steidl: o homem do jaleco branco
+
+**Felipe Kaizer, 2014**
+
 [Aplataforma] 2014-03-06
 
 ***

@@ -6,6 +6,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Uma proposta de base de dados sobre o Centro Universitário Maria Antonia
+
+**Felipe Kaizer, 2013**
+
 Trabalho de conclusão do curso *Design e Humanidade* (3ª edição) no [CEUMA/USP] Centro Universitário Maria Antonia Universidade de São Paulo em 2013.
 
 Orientação: Maria Argentina Bibas & Minoru Naruto

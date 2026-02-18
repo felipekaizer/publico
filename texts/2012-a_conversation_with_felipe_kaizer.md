@@ -8,6 +8,10 @@ authors:
     - Gustavo Ferreira
 ---
 
+# A conversation with Felipe Kaizer: A few questions and answers following the text "Beyond the ability to respond"
+
+** Felipe Kaizer, Gustavo Ferreira, 2012**
+
 [Hipertipo], 2012-04
 
 PT-BR version:

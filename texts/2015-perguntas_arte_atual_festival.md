@@ -9,6 +9,10 @@ authors:
     - Priscyla Gomes
 ---
 
+# Perguntas (Arte Atual Festival 2015)
+
+**Felipe Kaizer, Priscyla Gomes, 2015**
+
 Textos produzidos como resultado do acompanhamento crítico da exposição [Arte Atual Festival – Coisas sem nomes] \(Instituto Tomie Ohtake, 2015). 
 
 [Pergunta nº 1] – O que é um festival?

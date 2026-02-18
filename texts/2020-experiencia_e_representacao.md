@@ -9,6 +9,10 @@ authors:
     - Priscyla Gomes
 ---
 
+# Experiência e representação: por uma fenomenologia das imagens em _Noite e neblina_ de Alain Resnais
+
+**Felipe Kaizer, Priscyla Gomes, 2020**
+
 GOMES, Priscyla; KAIZER, Felipe. "Experiência e representação: por uma fenomenologia das imagens, em Noite e Neblina (1995) de Alain Resnais". *Revista ARA*, v. 8, n. 8, p. 141-165, 2020.
 
 ISSN 2525-8354

@@ -10,6 +10,10 @@ authors:
     - Lucas do M. N. Cunha
 ---
 
+# National Design and *Desenho Industrial*: Brazilian Issues in Historical Perspective
+
+**Felipe Kaizer, João de Souza Leite, Lucas do M. N. Cunha, 2018**
+
 [ICDHS 10th + 1] Barcelona 2018 – Back to the Future / The Future in the Past
 
 CUNHA, L.; KAIZER, F.; SOUZA LEITE, J. “National Design and Desenho Industrial: Brazilian Issues in Historical Perspective”. In Oriol Moret (ed.) Back to the future, ICDHS 10th + 1 Barcelona 2018, Conference Proceedings Book, pp. 153-156.   

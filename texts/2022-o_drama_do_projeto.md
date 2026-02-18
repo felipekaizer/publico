@@ -6,7 +6,12 @@ order: 1
 layout: default
 authors:
     - Felipe Kaizer
+
 ---
+
+# O drama do projeto: uma teoria do design
+
+Felipe Kaizer, 2022
 
 <div class="figure" markdown='1'>
 <a href="https://sabia.pub/product/o-drama-do-projeto-uma-teoria-do-design">

@@ -6,6 +6,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Mas isso não sou eu: breves considerações sobre o pastiche e a esquizofrenia em Fredric Jameson
+
+**Felipe Kaizer, 2013**
+
 Texto produzido para a disciplina *Arte e Design no contexto da sociedade contemporânea* de Ricardo Fabbrini no curso de pós-graduação *Design e Humanidade* no [CEUMA/USP] Centro Universitário Maria Antonia USP em janeiro de 2013.
 
 [![Creative Commons License](http://i.creativecommons.org/l/by-nd/4.0/80x15.png)](http://creativecommons.org/licenses/by-nd/4.0/) Mas isso não sou eu: breves considerações sobre o pastiche e a esquizofrenia em Fredric Jameson by Felipe Kaizer is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).

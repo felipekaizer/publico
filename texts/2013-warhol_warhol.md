@@ -7,6 +7,10 @@ authors:
     - Felipe Kaizer
 ---
 
+# Warhol Warhol: paródia, pastiche e tautologia
+
+**Felipe Kaizer, 2013**
+
 Texto produzido para a disciplina *Fundamentos Sociais do Design: o Design entre a Modernidade e a Pós-modernidade* da Profª Drª Maria Irene Szmrecsányi no curso de pós-graduação *Design e Humanidade* no [CEUMA/USP] Centro Universitário Maria Antonia USP em maio de 2012.
 
 [![Creative Commons License](http://i.creativecommons.org/l/by-nd/4.0/80x15.png)](http://creativecommons.org/licenses/by-nd/4.0/) Warhol Warhol: paródia, pastiche e tautologia by Felipe Kaizer is licensed under a [Creative Commons Attribution-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nd/4.0/).

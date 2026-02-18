@@ -7,7 +7,11 @@ layout: default
 authors: Felipe Kaizer
 ---
 
-## Cem anos depois do seu surgimento, a escola alemã Bauhaus representa um tempo em que o futuro era passível de ser projetado
+# Bauhaus ou A ousadia de educar para o futuro: Ensaio
+
+**Felipe Kaizer, 2019**
+
+**Cem anos depois do seu surgimento, a escola alemã Bauhaus representa um tempo em que o futuro era passível de ser projetado**
 
 [Select], 2019-06-14
 

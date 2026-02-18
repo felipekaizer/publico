@@ -7,6 +7,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Aloisio Magalhães e o problema do design nacional
+
+**Felipe Kaizer, 2021**
+
 Texto publicado originalmente como leitura complementar do mês de fevereiro de 2021 do [Clube do Livro do Design].
 
 [Recorte], 2021-06-21

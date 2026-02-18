@@ -10,8 +10,6 @@ authors:
 
 # Lembrei do que eu queria falar
 
-Felipe Kaizer
+Felipe Kaizer, 2024
 
-São Paulo, Maio de 2024
-
-Plin Plin
+Plin Plin, Felipe Barsuglia

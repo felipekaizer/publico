@@ -8,6 +8,10 @@ authors:
     - Priscyla Gomes
 ---
 
+# Eduardo Berliner: Corpo em muda
+
+**Felipe Kaizer, Priscyla Gomes, 2016**
+
 Exposição individual de Eduardo Berliner, Galeria Triângulo (São Paulo), 2016.
 
 [PDF]

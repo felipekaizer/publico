@@ -6,6 +6,10 @@ layout: default
 authors: Felipe Kaizer
 ---
 
+# Perguntas ingênuas: Eames vs Aicher
+
+**Felipe Kaizer, 2013**
+
 [Aplataforma] 2013-07-25
 
 ***

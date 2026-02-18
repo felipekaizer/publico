@@ -7,7 +7,11 @@ order: 2
 authors: Felipe Kaizer
 ---
 
-Texto  publicado originalmente como leitura complementar do mês de fevereiro de 2021 do [Clube do Livro do Design].  
+# O objetivo e o social em debate [Wim Crouwel vs Jan van Toorn, 1972]
+
+**Felipe Kaizer, 2021**
+
+Texto publicado originalmente como leitura complementar do mês de fevereiro de 2021 do [Clube do Livro do Design].  
 
 [Recorte], 2021-05-31
 

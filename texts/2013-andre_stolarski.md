@@ -7,6 +7,10 @@ authors:
     - Felipe Kaizer
 ---
 
+# André Stolarski: vida em projeto
+
+**Felipe Kaizer, 2013**
+
 [Aplataforma], 2013-10-30
 
 Revista [Ciano](http://revistaciano.wordpress.com/), v. 3, n. 1, 2013

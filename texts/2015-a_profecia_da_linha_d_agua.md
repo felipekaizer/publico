@@ -6,7 +6,12 @@ layout: default
 authors:
     - Felipe Kaizer
     - Luiza Crosman
+
 ---
+
+# A profecia da linha d\'água
+
+**Felipe Kaizer, Luiza Crosman, 2015**
 
 ![](/images/tumblr_nugw7qWxer1tju0ivo3_400.png)
 

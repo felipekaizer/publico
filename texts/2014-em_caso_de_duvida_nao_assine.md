@@ -10,6 +10,10 @@ authors:
     - Roman Atamanczuk
 ---
 
+# Em caso de dúvida, não assine
+
+**Felipe Kaizer, Tereza Bettinardi, Guilherme Falcão, Roman Atamanczuk, 2014**
+
 [Aplataforma], 2014-04-26
 
 Signatários:
