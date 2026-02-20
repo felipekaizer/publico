@@ -15,7 +15,7 @@ authors:
 
 *Plin Plin* (Felipe Barsuglia), p. 22-25.
 
-![](PHOTO-2024-05-29-18-19-44.jpg)
+![](/images/PHOTO-2024-05-29-18-19-44.jpg)
 
 Depois de sair do seu ateliê, lembrei da capa de um disco do Frank Zappa, *Does Humor Belong in Music?*. É de um sujeito chamado Cal Schenkel. O disco é de 1986, mas a capa, de 1995.
 
