@@ -53,7 +53,7 @@ Exposições coletivas organizadas pelos próprios artistas rarearam, o que é l
 
 É um argumento muito simples: falta humor nesta cidade. Mais uma generalização indevida, dessa vez, porém, surgida da minha vivência. Se você zoa um paulistano na amizade – querendo com isso indicar uma disposição para a intimidade –, o paulistano de fato se ofende. É gente que se leva muito a sério. Não à toa, me aproximei primeiro dos recifenses e dos cearenses de Fortaleza.
 
-Lembrei de um texto da Nathalia Calmon, amiga do Rio, sobre um amigo suicida –texto, para todos os efeitos, incompreensível nesta cidade. Abaixo, um trecho que consegui recuperar de 2008:
+Lembrei de um texto da Nathalia Calmon, amiga do Rio, sobre um amigo suicida – texto, para todos os efeitos, incompreensível nesta cidade. Abaixo, um trecho que consegui recuperar de 2008:
 
 > Há muito tempo eu me rendi ao disfarce do CK. E quero comprar uma sapatilha à la indiana de veludo carmim, pra ficar parecendo uma Dorothy do Oriente.
 >
