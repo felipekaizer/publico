@@ -7,6 +7,10 @@ Felipe Kaizer is
 
 <felipekaizer@usp.br>
 
+***
+
+## Profiles
+
 [CNPq Lattes](http://lattes.cnpq.br/2422427122106953)  
 
 [ORCID](https://orcid.org/0009-0003-8743-7511)  
